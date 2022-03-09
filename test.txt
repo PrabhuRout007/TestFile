@@ -1,0 +1,16 @@
+Git commands.
+
+git remote add origin <file name>
+
+git branch -M main
+
+git push -u origin main
+
+git checkout < branch name>
+
+git merge <branch name>
+
+git pull origin 
+
+git push origin
+
