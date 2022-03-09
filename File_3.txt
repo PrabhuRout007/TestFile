@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 File 3 has been Added.....
+=======
+This is File 3.
+
+we are going push this after using Pull.
+>>>>>>> 56db4b7bfbe4ba496c5a5dc0170c9831bf8fcbf4
